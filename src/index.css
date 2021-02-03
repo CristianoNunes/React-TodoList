@@ -24,6 +24,7 @@ body {
 
 .boxInputTodo {
   align-items: center;
+  border: 1px solid;
   display: flex;
   justify-content: center;
   width: 100%;
